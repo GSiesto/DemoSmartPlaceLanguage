@@ -1,0 +1,16 @@
+------------- HashMap ------------------------------------------------------------------
+Key:                f  | Type:   0 | Value:           20 | Posicion: <  0,  0> | Alias:    
+Key:                A  | Type:  20 | Value:              | Posicion: <  0,  0> | Alias:    
+Key:           Winter  | Type:  30 | Value:              | Posicion: <  0,  0> | Alias:    
+Key:                S  | Type:  12 | Value:              | Posicion: <250,250> | Alias: "SH"
+Key:                c  | Type:   0 | Value:            4 | Posicion: <  0,  0> | Alias:    
+Key:       indoorTemp  | Type:  10 | Value:              | Posicion: < 25, 25> | Alias: "T1"
+Key:       summerTemp  | Type:   1 | Value:    24.500000 | Posicion: <  0,  0> | Alias:    
+Key:       winterTemp  | Type:   1 | Value:    20.825001 | Posicion: <  0,  0> | Alias:    
+Key:              msg  | Type:   3 | Value: "Alarma. Alta probabilidad de incendio" | Posicion: <  0,  0> | Alias:    
+Key:         p_Sensor  | Type:   2 | Value:    < 25, 25> | Posicion: <  0,  0> | Alias:    
+Key:             Fire  | Type:  30 | Value:              | Posicion: <  0,  0> | Alias:    
+Key:         Whatsapp  | Type:  22 | Value:              | Posicion: <150,550> | Alias: "CA"
+Key:             Heat  | Type:  21 | Value:              | Posicion: <150,550> | Alias: "CA"
+----------------------------------------------------------------------------------------
+
