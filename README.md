@@ -1,4 +1,4 @@
-# Demo Smart Place Languaje
+# Demo Smart Place Language
 
 ## Theory of languages
 
